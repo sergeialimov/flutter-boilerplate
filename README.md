@@ -19,8 +19,8 @@ A Flutter boilerplate project with core functionality and Supabase integration, 
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
-cd [project-name]
+git clone git@github.com:sergeialimov/flutter-boilerplate.git
+cd flutter-boilerplate
 ```
 
 2. Install dependencies:

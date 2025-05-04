@@ -1,4 +1,4 @@
-# Flutter Boilerplate with Supabase
+# Flutter Supabase Boilerplate
 
 A Flutter boilerplate project with core functionality and Supabase integration, optimized for iOS development. This project serves as a foundation for building Flutter applications with a clean architecture and essential features.
 

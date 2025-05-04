@@ -1,5 +1,5 @@
-name: flut
-description: "A new Flutter project."
+name: flutter_supabase_boilerplate
+description: "A Flutter boilerplate project with Supabase integration and core functionality."
 publish_to: 'none'
 version: 0.1.0
 
